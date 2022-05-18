@@ -1,3 +1,3 @@
-const User = require('./Inventory');
+const Inventory = require('./inventory');
 
 module.exports = { Inventory };
