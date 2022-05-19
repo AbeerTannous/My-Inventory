@@ -1,16 +1,4 @@
-<h2>Exsting Inventories</h2>
-<ol class="inventory-list">
-    {{#each inventories as |inventory| }}
-  <li>
-    <article class="inventory">
-      <div class="title">
-        <span>{{id}}-{{title}}</span>
-        
-      </div>
-    </article>
-  </li>
-   {{/each}}
-</ol>
+
 <section>
   <h2>Create New Inventory</h2>
 
@@ -22,6 +10,21 @@
     <button type="submit" class="btn">Create</button>
   </form>
 </section>
+
+<h2>Exsting Inventories</h2>
+<ol class="inventory-list">
+    {{#each inventories as |inventory| }}
+  <li>
+    <article class="inventory">
+      <div class="title">
+        <span>{{title}}<button class="edit-btn"><a href="/edit/{{inventory.id}}" class="edit-link">Edit</a></button></span>
+        
+      </div>
+    </article>
+  </li>
+   {{/each}}
+</ol>
+
 
 
 
