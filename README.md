@@ -8,6 +8,7 @@ This is a sample of an Inventory Tracking System web application , the project u
 
 ## Deployed application
 
+https://glacial-beach-24640.herokuapp.com/
 
 ## Table of Contents
 
