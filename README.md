@@ -23,16 +23,16 @@ clone this repo  https://github.com/AbeerTannous/My-Inventory
 
 ## Usage and Application screen shot
 
-![](public\screenshots\homepage.png)
-![](public\screenshots\editpage.png)
+![](public/screenshots/homepage.png)
+![](public/screenshots/editpage.png)
 
 ## Technologies
 
-express
-express-handlebars
-mysql2
-sequelize
-dotenv
+- express
+- express-handlebars
+- mysql2
+- sequelize
+- dotenv
 
 
 ## License
