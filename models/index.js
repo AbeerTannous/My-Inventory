@@ -1,3 +1,3 @@
-const Inventory = require('./inventory');
+const Inventory = require('./Inventory');
 
 module.exports = { Inventory };
