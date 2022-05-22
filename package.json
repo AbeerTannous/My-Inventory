@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/AbeerTannous/My-Inventory/issues"
   },
-  "homepage": "https://github.com/AbeerTannous/My-Inventory#readme",
+  "homepage": "https://glacial-beach-24640.herokuapp.com/",
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
